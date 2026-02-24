@@ -24,9 +24,9 @@
 [https://www.guru99.com/software-testing.html]  
 [https://www.javatpoint.com/software-testing-tutorial]  
 
-• Software Testing Process
+• Software Testing Process  
 [https://www.testbytes.net/blog/software-testing-process/]  
 
-• Software Testing - Quick Guide
+• Software Testing - Quick Guide  
 [https://www.tutorialspoint.com/software_testing/software_testing_quick_guid
 e.htm]  
