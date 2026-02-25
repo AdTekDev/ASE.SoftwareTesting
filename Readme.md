@@ -14,6 +14,7 @@
 ## Tools
 - VS Code - https://code.visualstudio.com/download
 - Python + Jupyter - https://jupyter.org/install  ;  https://www.python.org/downloads/
+- Java + Eclipse - https://www.eclipse.org/downloads/packages/  
 
 ## References
 • Software Engineering  
