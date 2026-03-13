@@ -242,12 +242,3 @@ Explain:
 2. What might happen if a website does not use HTTPS.
 
 ---
-
-
----
-
-If you want, I can also help create:
-
-* **A grading rubric for this 60-minute lab**
-* **A worksheet version for students**
-* **A slide deck to teach this lab in class**.
