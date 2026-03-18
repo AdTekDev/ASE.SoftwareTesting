@@ -53,11 +53,19 @@ A simple electronic clock has four modes, display time,change time, display date
 ## 3. Scenario  
 
 ```Example
-Test Scenario:  
+>>> Test Scenario:  
 • Test Scenario 1: Validate the login functionality of the application.
 • Test Scenario 2: Verify the checkout process for an e-commerce site.
+  
+• Test Scenario 3: Save Draft in Note App  
+   What to test: Make sure the app lets you save a note without publishing it.  
+   Why: This helps users avoid losing their work if they want to finish it later.  
 
-Test Case:
+• Test Scenario 4: Undo Last Change in Text Editor  
+   What to test: Check if clicking “Undo” reverses the last change. This could be typing or deleting.  
+   Why: It allows users to fix mistakes quickly and easily.  
+
+>>> Test Case 1:
 Test Case for Scenario 1 (Login Functionality):
 
 Pre-condition: User must have an active account.
@@ -68,8 +76,27 @@ s2. Enter a valid username and password.
 s3. Click the ‘Login’ button.
 
 Expected Outcome: User is redirected to the dashboard.
+
+>>> Test Case 2:
+Test Case Name: Verify successful login with valid credentials  
+Precondition: User is on the login screen of the mobile app  
+   
+Test Data:
+   Username: user@example.com
+   Password: correctPassword123
+   
+Test Steps:
+s1. Enter a valid username in the username field  
+s2. Enter a valid password in the password field  
+s3. Tap the “Login” button 
+   
+Expected Results:
+- User is successfully authenticated  
+- App navigates to the home screen or dashboard  
 ```
 
 3.1. Fahasa  
 3.2. Tiki  
 3.3. Lazada    
+
+
