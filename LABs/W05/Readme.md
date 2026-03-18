@@ -32,7 +32,15 @@ Based on the given specification, there are two faculties, which are Engineering
 - R0105 If the number of registered students for a course is greater than 50 both for the Engineering Faculty and the Art and Science Faculty, the course building will be D block
 
 
-## STT - State transition testing  
+## 2. STT - State transition testing  
+
+2.1. electronic clock  
+A simple electronic clock has four modes, display time,change time, display date and change date  
+- The change mode button switches between display time and display date
+- The reset button switches from display time to adjust time or display date to adjust date
+- The set button returns from adjust time to display time or adjust date to display date
+
+## 3. Scenario  
 
 
 
