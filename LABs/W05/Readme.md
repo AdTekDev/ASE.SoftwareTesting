@@ -70,6 +70,6 @@ s3. Click the ‘Login’ button.
 Expected Outcome: User is redirected to the dashboard.
 ```
 
-1. Fahasa
-2. Tiki
-3. Lazada  
+3.1. Fahasa
+3.2. Tiki
+3.3. Lazada  
