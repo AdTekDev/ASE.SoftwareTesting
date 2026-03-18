@@ -40,6 +40,16 @@ A simple electronic clock has four modes, display time,change time, display date
 - The reset button switches from display time to adjust time or display date to adjust date
 - The set button returns from adjust time to display time or adjust date to display date
 
+2.2. login - banking system    
+<img width="720" height="244" alt="image" src="https://github.com/user-attachments/assets/565b4cf0-b04e-46ea-ba80-2ba6b9a656f5" />
+
+
+2.3. Kiosk States  
+<img width="500" height="526" alt="image" src="https://github.com/user-attachments/assets/059c33a6-1d38-475a-a885-5765f8f77320" />
+
+
+
+
 ## 3. Scenario  
 
 
