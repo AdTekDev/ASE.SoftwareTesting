@@ -52,5 +52,24 @@ A simple electronic clock has four modes, display time,change time, display date
 
 ## 3. Scenario  
 
+```Example
+Test Scenario:  
+• Test Scenario 1: Validate the login functionality of the application.
+• Test Scenario 2: Verify the checkout process for an e-commerce site.
 
+Test Case:
+Test Case for Scenario 1 (Login Functionality):
 
+Pre-condition: User must have an active account.
+
+Steps:
+s1. Navigate to the login page.
+s2. Enter a valid username and password.
+s3. Click the ‘Login’ button.
+
+Expected Outcome: User is redirected to the dashboard.
+```
+
+1. Fahasa
+2. Tiki
+3. Lazada  
