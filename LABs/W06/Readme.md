@@ -94,6 +94,10 @@ Design test cases for:
 Use automation tools such as:
 
 * Selenium
+  <img width="1809" height="983" alt="image" src="https://github.com/user-attachments/assets/fad30d93-4b37-4b74-b87e-85cd14c8f887" />
+
+  <img width="1220" height="1028" alt="image" src="https://github.com/user-attachments/assets/db7df7c9-4893-47c2-8a76-ab3388190469" />
+
 * Katalon
   <img width="1600" height="1020" alt="image" src="https://github.com/user-attachments/assets/06305d94-6f3c-4573-8e17-df41a23924dd" />
 
