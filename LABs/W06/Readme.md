@@ -134,7 +134,7 @@ Compare the three platforms:
 
 ## **Deliverables**
 
-* Test Case Document (Excel / TestRail / Jira format)
+* Test Case Document (Excel)
 * Automation scripts (source code)
 * Execution report (with screenshots/logs)
 * Short comparison report (1–2 pages)
