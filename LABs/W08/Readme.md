@@ -3,7 +3,7 @@
 
 ## Selenium - Java 
 
-<img width="1105" height="624" alt="image" src="https://github.com/user-attachments/assets/d3e8af52-c911-44af-a2cf-721cebceccee" />
+  <img width="1273" height="760" alt="image" src="https://github.com/user-attachments/assets/3a52c9a4-eb89-4611-ba7d-05fda8e973da" />
 
 
 
