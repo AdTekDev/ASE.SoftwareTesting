@@ -141,6 +141,6 @@ public class Test01 {
 
 * Chrome browser opens automatically
 * The target website loads successfully
-* The test passes if the title contains `"Soft"`
+* The test passes if the title contains `"ASE.SoftwareTesting"`
 
 ---
