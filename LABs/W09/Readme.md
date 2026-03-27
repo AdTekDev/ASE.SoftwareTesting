@@ -11,7 +11,8 @@ Students are required to perform testing activities related to the **book orderi
 
    * Describe step-by-step scenarios for ordering books on Fahasa.
    * Include both normal flows and alternative/exception flows (e.g., out-of-stock, invalid input, payment failure).
-  **Minimum scenarios to cover:**
+      
+   **Minimum scenarios to cover:**
 
 | Scenario | Flow Type |
 |---|---|
