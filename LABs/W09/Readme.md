@@ -14,14 +14,14 @@ Students are required to perform testing activities related to the **book orderi
       
    **Minimum scenarios to cover:**
 
-| Scenario | Flow Type |
-|---|---|
-| Successfully order a book (logged-in user) | Normal |
-| Order as a guest (no account) | Alternative |
-| Add an out-of-stock book to cart | Exception |
-| Enter an invalid shipping address | Exception |
-| Payment failure (declined card) | Exception |
-| Apply a valid/invalid discount code | Alternative |
+    | Scenario | Flow Type |
+    |---|---|
+    | Successfully order a book (logged-in user) | Normal |
+    | Order as a guest (no account) | Alternative |
+    | Add an out-of-stock book to cart | Exception |
+    | Enter an invalid shipping address | Exception |
+    | Payment failure (declined card) | Exception |
+    | Apply a valid/invalid discount code | Alternative |
 
 
 2. **Design Comprehensive Test Cases**
@@ -48,15 +48,15 @@ Students are required to perform testing activities related to the **book orderi
      * Test execution time
      * Test reporting time
 
-**Ex.**  
-| Activity | Estimated Time | Actual Time Spent | Notes |
-|---|---|---|---|
-| Test scenario design | | | |
-| Test case design | | | |
-| Test script development | | | |
-| Test execution | | | |
-| Test reporting & documentation | | | |
-| **Total** | | | |
+    **Ex.**  
+    | Activity | Estimated Time | Actual Time Spent | Notes |
+    |---|---|---|---|
+    | Test scenario design | | | |
+    | Test case design | | | |
+    | Test script development | | | |
+    | Test execution | | | |
+    | Test reporting & documentation | | | |
+    | **Total** | | | |
 
 ---
 
