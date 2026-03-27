@@ -11,6 +11,17 @@ Students are required to perform testing activities related to the **book orderi
 
    * Describe step-by-step scenarios for ordering books on Fahasa.
    * Include both normal flows and alternative/exception flows (e.g., out-of-stock, invalid input, payment failure).
+  **Minimum scenarios to cover:**
+
+| Scenario | Flow Type |
+|---|---|
+| Successfully order a book (logged-in user) | Normal |
+| Order as a guest (no account) | Alternative |
+| Add an out-of-stock book to cart | Exception |
+| Enter an invalid shipping address | Exception |
+| Payment failure (declined card) | Exception |
+| Apply a valid/invalid discount code | Alternative |
+
 
 2. **Design Comprehensive Test Cases**
 
@@ -35,6 +46,16 @@ Students are required to perform testing activities related to the **book orderi
      * Test script development time
      * Test execution time
      * Test reporting time
+
+**Ex.**  
+| Activity | Estimated Time | Actual Time Spent | Notes |
+|---|---|---|---|
+| Test scenario design | | | |
+| Test case design | | | |
+| Test script development | | | |
+| Test execution | | | |
+| Test reporting & documentation | | | |
+| **Total** | | | |
 
 ---
 
