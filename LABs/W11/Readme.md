@@ -95,6 +95,9 @@ void testCalculateSum_validInput() {
 
 ---
 
+<img width="1148" height="721" alt="image" src="https://github.com/user-attachments/assets/37c572c6-fbdf-4dbd-b225-3a8c43b8870e" />
+
+
 ### 5. Execute Unit Tests
 
 * Run tests using:
